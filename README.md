@@ -1,1 +1,1 @@
-# tinder_app_clone
+# tinder_flutter_app_clone
